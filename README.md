@@ -26,28 +26,40 @@ This repository serves as a platform to share my projects, showcase my skills, a
 
 ### **Data Professionals Job Survey**
 
-**Project:** [Data Professionals Job Survey - Power BI](https://app.powerbi.com/view?r=eyJrIjoiMGQ3OWFiNjYtOGJmZC00Yzc2LTg0NjAtNTA0NmE3NTE4MWUwIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&embedImagePlaceholder=true)  
-**Description:** This project derives from a survey taken among data professionals around the world with hundreds of responses. Questions included age, sex, country, ethnicity, and other demographics, along with career-oriented questions like estimated salary ranges, work/life balance satisfaction, preferred programming language, and more.  
-**Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, qualitative analysis  
-**Technology:** Power BI, Excel  
+**Project:** [Data Professionals Job Survey - Power BI](https://app.powerbi.com/view?r=eyJrIjoiMGQ3OWFiNjYtOGJmZC00Yzc2LTg0NjAtNTA0NmE3NTE4MWUwIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&embedImagePlaceholder=true)
+
+**Description:** This project derives from a survey taken among data professionals around the world with hundreds of responses. Questions included age, sex, country, ethnicity, and other demographics, along with career-oriented questions like estimated salary ranges, work/life balance satisfaction, preferred programming language, and more.
+
+**Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, qualitative analysis
+
+**Technology:** Power BI, Excel
+
 **Results & Conclusions:** More insights could be added to this project soon as there is much to be unpacked from the survey results. One insight was that, of the responders, men and women typically made about the same amount of money on average. Also, both age and education (two factors assumed to play major roles in salary growth) did not hold near as much weight as I would have thought without having done such an analysis. One last conclusion is that Python appears to be far and away the most popular programming language used around the world among this sample of data professionals.
 
 
 ### **NBA Statistics**
 
-**Project:** [NBA Player Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWNlZGE2YmQtNWM5MC00MjdhLWIwMzUtNTk2NDNhZGVmNjllIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9)  
-**Description:** This project shows an NBA player dashboard using 10 years of NBA data straight from the official website. In addition to the typical stats you might find on a project like this, I decided to take a shot (pun intended) at my own version of a Player Efficiency Rating. I don’t like that almost 500 players in the League are differentiated by no more than about 30 points. So, I created a “Contribution Rating” which incorporates several per-minute stats, with extra weight placed on +/- and minutes per game.  
-**Skills:** Web scraping, dashboard creation, exploratory analysis, predictive analysis  
-**Technology:** Power BI, Excel, Python  
+**Project:** [NBA Player Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWNlZGE2YmQtNWM5MC00MjdhLWIwMzUtNTk2NDNhZGVmNjllIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9)
+
+**Description:** This project shows an NBA player dashboard using 10 years of NBA data straight from the official website. In addition to the typical stats you might find on a project like this, I decided to take a shot (pun intended) at my own version of a Player Efficiency Rating. I don’t like that almost 500 players in the League are differentiated by no more than about 30 points. So, I created a “Contribution Rating” which incorporates several per-minute stats, with extra weight placed on +/- and minutes per game.
+
+**Skills:** Web scraping, dashboard creation, exploratory analysis, predictive analysis
+
+**Technology:** Power BI, Excel, Python
+
 **Results & Conclusions:** The contribution rating increases the spread of the widely-known PER from ~30 points to ~75, providing more insight to even marginal differences between players' production.
 
 
 ### **Sales Dashboard**
 
-**Project:** [Sales Dashboard - Tableau Public](https://public.tableau.com/app/profile/graham.analytics/viz/SalesDashboard_16736662040210/ServiceSales)  
-**Description:** In this project, I transformed over 20 years of sample sales data for a service-based company into an interactive, quick-glance dashboard. The dashboard allows for exploratory analysis, customer retention, and easy performance tracking.  
-**Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, client relations  
-**Technology:** Tableau Public, Excel  
+**Project:** [Sales Dashboard - Tableau Public](https://public.tableau.com/app/profile/graham.analytics/viz/SalesDashboard_16736662040210/ServiceSales)
+
+**Description:** In this project, I transformed over 20 years of sample sales data for a service-based company into an interactive, quick-glance dashboard. The dashboard allows for exploratory analysis, customer retention, and easy performance tracking.
+
+**Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, client relations
+
+**Technology:** Tableau Public, Excel
+
 **Results & Conclusions:** As seen in the dashboard itself, it was determined that one of the service categories was being sold for well-under market value, and in subsequent years, aggressive pricing adjustments are made. The end result is a 35% increase in revenue for that service category.
 
 [Back to Top](#cody-graham---data-analysis-portfolio)
