@@ -2,9 +2,9 @@
 
 ## **About**
 
-Hi, I'm Cody! I hold a bachelors degree from Brigham Young University-Idaho, with a major in Finance and a minor in Computer Information Technology. My professional data experience began in 2017 as a student while working for the university I attended.
+Hi, I'm Cody! I am a data analyst hold a bachelors degree from Brigham Young University-Idaho, with a major in Finance and a minor in Computer Information Technology. My professional data experience began in 2017 as a student while working for the university I attended.
 
-My first opportunity to see direct results of leveraging data came after I created and monitored a simple database that tracked and categorized course registration errors which allowed the department to gain real-time knowledge in the most frequent issues students encountered. This led to the subsequent rollout of several website UI enhancements and a new opt-in text message alert system which reduced student interactions with the Registration team by about 70% in a year. Of this experience came a passion for using data to solve problems. Today, I work as a Data Analyst for a pharmacy benefit consulting firm managing over $100 billion in total drug spend.
+My first opportunity to see direct results of leveraging data came after I created and monitored a simple database that tracked and categorized course registration errors which allowed the department to gain real-time knowledge in the most frequent issues students encountered. This led to the subsequent rollout of several website UI enhancements and a new opt-in text message alert system which reduced student interactions with the Registration team by about 70% in a year. Of this experience came a passion for using data to solve problems. Today, I work as a data analyst for a pharmacy benefit consulting firm managing over $100 billion in total drug spend. I spend most of my time using SQL query our massive claims database for insights and developing savings and other financial models among other ad hoc requests.
 
 This repository serves as a platform to share my projects, shaowcase my skills, and track my progress in the world of data analytics.
 
@@ -43,6 +43,6 @@ This repository serves as a platform to share my projects, shaowcase my skills, 
 
 **Project:** [Data Professionals Job Survey - Power BI](url)  
 **Description:** This project derives from a survey taken among data professionals around the world with hundreds of responses. Questions included age, sex, country, ethnicity, and other demographics, along with career-oriented questions like estimated salary ranges, work/life balance satisfaction, preferred programming language, and more.  
-**Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis  
+**Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, qualitative analysis  
 **Technology:** Power BI, Excel  
-**Results & Conclusions:** More could be added to this project soon as there is much to be unpacked from the survey results. One insight was that, of the responders, men and women typically made about the same amount of money on average. Also, both age and education (two factors assumed to play major roles in salary growth) did not hold near as much weight as I would have thought without having done such an analysis. One last conclusion is that Python appears to be by and far the most popular programming language used around the world among data professionals.
+**Results & Conclusions:** More insights could be added to this project soon as there is much to be unpacked from the survey results. One insight was that, of the responders, men and women typically made about the same amount of money on average. Also, both age and education (two factors assumed to play major roles in salary growth) did not hold near as much weight as I would have thought without having done such an analysis. One last conclusion is that Python appears to be far and away the most popular programming language used around the world among this sample of data professionals.
