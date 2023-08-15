@@ -26,10 +26,10 @@ This repository serves as a platform to share my projects, showcase my skills, a
 ### **NBA Statistics**
 
 **Project:** [NBA Player Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNlZGE2YmQtNWM5MC00MjdhLWIwMzUtNTk2NDNhZGVmNjllIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9)  
-**Description:** Description will appear here.  
-**Skills:** Web scraping, dashboard creation, exploratory analysis, predictive analysis, 
-**Technology:** Power BI, Excel, Python 
-**Results & Conclusions:** Results will appear here.  
+**Description:** This project shows an NBA player dashboard using 10 years of NBA data straight from the official website. In addition to the typical stats you might find on a project like this, I decided to take a shot (pun intended) at my own version of a Player Efficiency Rating. I don’t like that almost 500 players in the League are differentiated by no more than about 30 points. So, I created a “Contribution Rating” which incorporates several per-minute stats, with extra weight placed on +/- and minutes per game.  
+**Skills:** Web scraping, dashboard creation, exploratory analysis, predictive analysis  
+**Technology:** Power BI, Excel, Python  
+**Results & Conclusions:** The contribution rating increases the spread of the widely-known PER from ~30 points to ~75, providing more insight to even marginal differences between players' contribution to their teams' results.  
 
 
 ### **Sales Dashboard**
