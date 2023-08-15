@@ -23,29 +23,29 @@ This repository serves as a platform to share my projects, shaowcase my skills, 
 
 ### **NBA Statistics**
 
-**Project:** Project link will apear here.
-**Description:** Description will appear here.
-**Skills:** Skills will appear here.
-**Technology:** Tech stack will appear here
-**Results & Conclusions:** Results will appear here.
+**Project:** Project link will apear here.  
+**Description:** Description will appear here.  
+**Skills:** Skills will appear here.  
+**Technology:** Tech stack will appear here.  
+**Results & Conclusions:** Results will appear here.  
 
 
 ### **Sales Dashboard**
 
-**Project:** [Sales Dashboard - Tableau Public](https://public.tableau.com/app/profile/graham.analytics/viz/SalesDashboard_16736662040210/ServiceSales) <br>
-**Description:** In this project, I transformed 21 years of unusable sales data for a small home service company into an interactive, quick-glance dashboard. The dashboard allows for exploratory analysis, customer retention, and easy performance tracking.<br>
-**Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, client relations<br>
-**Technology:** Tableau Public, Excel<br>
+**Project:** [Sales Dashboard - Tableau Public](https://public.tableau.com/app/profile/graham.analytics/viz/SalesDashboard_16736662040210/ServiceSales)  
+**Description:** In this project, I transformed 21 years of unusable sales data for a small home service company into an interactive, quick-glance dashboard. The dashboard allows for exploratory analysis, customer retention, and easy performance tracking.  
+**Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, client relations  
+**Technology:** Tableau Public, Excel  
 **Results & Conclusions:** As seen in the dashboard itself, it was determined that one of the service categories was being sold for well-under market value, and in subsequent years, aggressive pricing adjustments are made. The end result is a 35% increase in revenuw for that service category.
 
 
 ### **Data Professionals Job Survey**
 
-**Project:** Project link will apear here.
-**Description:** Description will appear here.
-**Skills:** Skills will appear here.
-**Technology:** Tech stack will appear here
-**Results & Conclusions:** Results will appear here.
+**Project:** Project link will apear here.  
+**Description:** Description will appear here.  
+**Skills:** Skills will appear here.  
+**Technology:** Tech stack will appear here.  
+**Results & Conclusions:** Results will appear here.  
 
 
 
