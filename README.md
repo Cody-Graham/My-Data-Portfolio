@@ -45,7 +45,7 @@ This repository serves as a platform to share my projects, showcase my skills, a
 ### **Sales Dashboard**
 
 **Project:** [Sales Dashboard - Tableau Public](https://public.tableau.com/app/profile/graham.analytics/viz/SalesDashboard_16736662040210/ServiceSales)  
-**Description:** In this project, I transformed over 20 years of unused sales data for a small service-based company into an interactive, quick-glance dashboard. The dashboard allows for exploratory analysis, customer retention, and easy performance tracking.  
+**Description:** In this project, I transformed over 20 years of sample sales data for a service-based company into an interactive, quick-glance dashboard. The dashboard allows for exploratory analysis, customer retention, and easy performance tracking.  
 **Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, client relations  
 **Technology:** Tableau Public, Excel  
 **Results & Conclusions:** As seen in the dashboard itself, it was determined that one of the service categories was being sold for well-under market value, and in subsequent years, aggressive pricing adjustments are made. The end result is a 35% increase in revenue for that service category.
