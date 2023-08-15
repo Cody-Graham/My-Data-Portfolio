@@ -2,7 +2,7 @@
 
 ## **About**
 
-Hi, I'm Cody! I am a data analyst with a bachelors degree in Finance and a minor in Computer Information Technology. My professional data experience began in 2017 as a student while working for the university I attended.
+Hi, I'm Cody! I am a data analyst with a bachelors degree in Finance and a minor in Computer Information Technology. My professional data experience began in 2017 while working for the university I attended.
 
 My first opportunity to see direct results from leveraging data came after I created and monitored a simple database that tracked and categorized course registration errors which allowed the department to gain real-time knowledge of the most frequent issues students encountered. This led to the subsequent rollout of several website UI enhancements and a new opt-in text message alert system which reduced unnecessary student interactions with the Registration team by about 70% in a year. Of this experience was born a passion for using data to solve problems.
 
