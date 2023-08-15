@@ -43,7 +43,7 @@ This repository serves as a platform to share my projects, showcase my skills, a
 
 ### **Data Professionals Job Survey**
 
-**Project:** [Data Professionals Job Survey - Power BI - PDF](https://app.powerbi.com/view?r=eyJrIjoiMGQ3OWFiNjYtOGJmZC00Yzc2LTg0NjAtNTA0NmE3NTE4MWUwIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&embedImagePlaceholder=true)  
+**Project:** [Data Professionals Job Survey - Power BI](https://app.powerbi.com/view?r=eyJrIjoiMGQ3OWFiNjYtOGJmZC00Yzc2LTg0NjAtNTA0NmE3NTE4MWUwIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&embedImagePlaceholder=true)  
 **Description:** This project derives from a survey taken among data professionals around the world with hundreds of responses. Questions included age, sex, country, ethnicity, and other demographics, along with career-oriented questions like estimated salary ranges, work/life balance satisfaction, preferred programming language, and more.  
 **Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, qualitative analysis  
 **Technology:** Power BI, Excel  
