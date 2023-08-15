@@ -21,27 +21,86 @@ This repository serves as a platform to share my projects, shaowcase my skills, 
 
 ### **NBA Statistics**
 
-**Project:** 
-**Description:** 
-**Skills:** 
-**Technology:** 
-**Results & Conclusions:** 
+**Project:** Project link will apear here.
+**Description:** Description will appear here.
+**Skills:** Skills will appear here.
+**Technology:** Tech stack will appear here
+**Results & Conclusions:** Results will appear here.
 
 
 ### **Sales Dashboard**
 
-**Project:** 
-**Description:** 
-**Skills:** 
-**Technology:** 
-**Results & Conclusions:** 
+**Project:** Project link will apear here.
+**Description:** Description will appear here.
+**Skills:** Skills will appear here.
+**Technology:** Tech stack will appear here
+**Results & Conclusions:** Results will appear here.
 
 
 ### **Data Professionals Job Survey**
 
-**Project:** 
-**Description:** 
-**Skills:** 
-**Technology:** 
-**Results & Conclusions:** 
+**Project:** Project link will apear here.
+**Description:** Description will appear here.
+**Skills:** Skills will appear here.
+**Technology:** Tech stack will appear here
+**Results & Conclusions:** Results will appear here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
