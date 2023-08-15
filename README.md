@@ -26,3 +26,22 @@ This repository serves as a platform to share my projects, shaowcase my skills, 
 **Skills:** 
 **Technology:** 
 **Results & Conclusions:** 
+
+
+### **Sales Dashboard**
+
+**Project:** 
+**Description:** 
+**Skills:** 
+**Technology:** 
+**Results & Conclusions:** 
+
+
+### **Data Professionals Job Survey**
+
+**Project:** 
+**Description:** 
+**Skills:** 
+**Technology:** 
+**Results & Conclusions:** 
+
