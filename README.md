@@ -23,6 +23,15 @@ This repository serves as a platform to share my projects, showcase my skills, a
 ## **Portfolio Projects**
 
 
+### **Data Professionals Job Survey**
+
+**Project:** [Data Professionals Job Survey - Power BI](https://app.powerbi.com/view?r=eyJrIjoiMGQ3OWFiNjYtOGJmZC00Yzc2LTg0NjAtNTA0NmE3NTE4MWUwIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&embedImagePlaceholder=true)  
+**Description:** This project derives from a survey taken among data professionals around the world with hundreds of responses. Questions included age, sex, country, ethnicity, and other demographics, along with career-oriented questions like estimated salary ranges, work/life balance satisfaction, preferred programming language, and more.  
+**Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, qualitative analysis  
+**Technology:** Power BI, Excel  
+**Results & Conclusions:** More insights could be added to this project soon as there is much to be unpacked from the survey results. One insight was that, of the responders, men and women typically made about the same amount of money on average. Also, both age and education (two factors assumed to play major roles in salary growth) did not hold near as much weight as I would have thought without having done such an analysis. One last conclusion is that Python appears to be far and away the most popular programming language used around the world among this sample of data professionals.
+
+
 ### **NBA Statistics**
 
 **Project:** [NBA Player Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWNlZGE2YmQtNWM5MC00MjdhLWIwMzUtNTk2NDNhZGVmNjllIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9)  
@@ -39,14 +48,5 @@ This repository serves as a platform to share my projects, showcase my skills, a
 **Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, client relations  
 **Technology:** Tableau Public, Excel  
 **Results & Conclusions:** As seen in the dashboard itself, it was determined that one of the service categories was being sold for well-under market value, and in subsequent years, aggressive pricing adjustments are made. The end result is a 35% increase in revenue for that service category.
-
-
-### **Data Professionals Job Survey**
-
-**Project:** [Data Professionals Job Survey - Power BI](https://app.powerbi.com/view?r=eyJrIjoiMGQ3OWFiNjYtOGJmZC00Yzc2LTg0NjAtNTA0NmE3NTE4MWUwIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&embedImagePlaceholder=true)  
-**Description:** This project derives from a survey taken among data professionals around the world with hundreds of responses. Questions included age, sex, country, ethnicity, and other demographics, along with career-oriented questions like estimated salary ranges, work/life balance satisfaction, preferred programming language, and more.  
-**Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, qualitative analysis  
-**Technology:** Power BI, Excel  
-**Results & Conclusions:** More insights could be added to this project soon as there is much to be unpacked from the survey results. One insight was that, of the responders, men and women typically made about the same amount of money on average. Also, both age and education (two factors assumed to play major roles in salary growth) did not hold near as much weight as I would have thought without having done such an analysis. One last conclusion is that Python appears to be far and away the most popular programming language used around the world among this sample of data professionals.
 
 [Back to Top](#cody-graham---data-analysis-portfolio)
