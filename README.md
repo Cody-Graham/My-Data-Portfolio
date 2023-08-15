@@ -9,11 +9,11 @@ This repository serves as a platform to share my projects, shaowcase my skills, 
 
 ## **Table of Contents**
 - [About](https://github.com/Cody-Graham/My-Data-Portfolio/blob/main/README.md#About)
-- [Porfolio Projects](https://github.com/Cody-Graham/My-Data-Portfolio/blob/main/README.md#Portfolio_Projects)
+- [Porfolio Projects](https://github.com/Cody-Graham/My-Data-Portfolio/blob/main/README.md#Portfolio-Projects)
   - Data Professionals Job Survey
   - NBA Statistics
   - Sales Dashboard
  
 
-(## **Portfolio Projects**)
+## **Portfolio Projects**
 
