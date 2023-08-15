@@ -36,7 +36,7 @@ This repository serves as a platform to share my projects, shaowcase my skills, 
 **Description:** In this project, I transformed 21 years of unusable sales data for a small home service company into an interactive, quick-glance dashboard. The dashboard allows for exploratory analysis, customer retention, and easy performance tracking.  
 **Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, client relations  
 **Technology:** Tableau Public, Excel  
-**Results & Conclusions:** As seen in the dashboard itself, it was determined that one of the service categories was being sold for well-under market value, and in subsequent years, aggressive pricing adjustments are made. The end result is a 35% increase in revenuw for that service category.
+**Results & Conclusions:** As seen in the dashboard itself, it was determined that one of the service categories was being sold for well-under market value, and in subsequent years, aggressive pricing adjustments are made. The end result is a 35% increase in revenue for that service category.
 
 
 ### **Data Professionals Job Survey**
