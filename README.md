@@ -11,11 +11,11 @@ This repository serves as a platform to share my projects, shaowcase my skills, 
 
 ## **Table of Contents**
 
-- [About](https://github.com/Cody-Graham/My-Data-Portfolio#About)
-- [Porfolio Projects](https://github.com/Cody-Graham/My-Data-Portfolio#Portfolio-Projects)
-  - [NBA Statistics](https://github.com/Cody-Graham/My-Data-Portfolio#NBA-Statistics)
-  - [Sales Dashboard](https://github.com/Cody-Graham/My-Data-Portfolio#Sales-Dashboard)
-  - [Data Professionals Job Survey](https://github.com/Cody-Graham/My-Data-Portfolio#Data-Professionals-Job-Survey)
+- [About](o#About)
+- [Porfolio Projects](#Portfolio-Projects)
+  - [NBA Statistics](#NBA-Statistics)
+  - [Sales Dashboard](#Sales-Dashboard)
+  - [Data Professionals Job Survey](#Data-Professionals-Job-Survey)
  
 
 ## **Portfolio Projects**
@@ -33,7 +33,7 @@ This repository serves as a platform to share my projects, shaowcase my skills, 
 ### **Sales Dashboard**
 
 **Project:** [Sales Dashboard - Tableau Public](https://public.tableau.com/app/profile/graham.analytics/viz/SalesDashboard_16736662040210/ServiceSales)  
-**Description:** In this project, I transformed 21 years of unusable sales data for a small home service company into an interactive, quick-glance dashboard. The dashboard allows for exploratory analysis, customer retention, and easy performance tracking.  
+**Description:** In this project, I transformed over 20 years of unused sales data for a small home service company into an interactive, quick-glance dashboard. The dashboard allows for exploratory analysis, customer retention, and easy performance tracking.  
 **Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, client relations  
 **Technology:** Tableau Public, Excel  
 **Results & Conclusions:** As seen in the dashboard itself, it was determined that one of the service categories was being sold for well-under market value, and in subsequent years, aggressive pricing adjustments are made. The end result is a 35% increase in revenue for that service category.
@@ -41,11 +41,11 @@ This repository serves as a platform to share my projects, shaowcase my skills, 
 
 ### **Data Professionals Job Survey**
 
-**Project:** Project link will apear here.  
-**Description:** Description will appear here.  
-**Skills:** Skills will appear here.  
-**Technology:** Tech stack will appear here.  
-**Results & Conclusions:** Results will appear here.  
+**Project:** [Data Professionals Job Survey - Power BI](url)  
+**Description:** This project derives from a survey taken among data professionals around the world with hundreds of responses. Questions included age, sex, country, ethnicity, and other demographics, along with career-oriented questions like estimated salary ranges, work/life balance satisfaction, preferred programming language, and more.  
+**Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis  
+**Technology:** Power BI, Excel  
+**Results & Conclusions:** More could be added to this project soon as there is much to be unpacked from the survey results. One insight was that, of the responders, men and women typically made about the same amount of money on average. Also, both age and education (two factors assumed to play major roles in salary growth) did not hold near as much weight as I would have thought without having done such an analysis. One last conclusion is that Python appears to be by and far the most popular programming language used around the world among data professionals.
 
 
 
