@@ -48,3 +48,5 @@ This repository serves as a platform to share my projects, showcase my skills, a
 **Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, qualitative analysis  
 **Technology:** Power BI, Excel  
 **Results & Conclusions:** More insights could be added to this project soon as there is much to be unpacked from the survey results. One insight was that, of the responders, men and women typically made about the same amount of money on average. Also, both age and education (two factors assumed to play major roles in salary growth) did not hold near as much weight as I would have thought without having done such an analysis. One last conclusion is that Python appears to be far and away the most popular programming language used around the world among this sample of data professionals.
+
+[Back to Top](#cody-graham---data-analysis-portfolio)
