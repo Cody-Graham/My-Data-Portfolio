@@ -13,7 +13,7 @@ This repository serves as a platform to share my projects, shaowcase my skills, 
 
 ## **Table of Contents**
 
-- [About](o#About)
+- [About](#About)
 - [Porfolio Projects](#Portfolio-Projects)
   - [NBA Statistics](#NBA-Statistics)
   - [Sales Dashboard](#Sales-Dashboard)
