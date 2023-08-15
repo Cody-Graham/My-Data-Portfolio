@@ -25,7 +25,7 @@ This repository serves as a platform to share my projects, showcase my skills, a
 
 ### **NBA Statistics**
 
-**Project:** [NBA Player Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNlZGE2YmQtNWM5MC00MjdhLWIwMzUtNTk2NDNhZGVmNjllIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9)
+**Project:** [NBA Player Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNlZGE2YmQtNWM5MC00MjdhLWIwMzUtNTk2NDNhZGVmNjllIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9)  
 **Description:** Description will appear here.  
 **Skills:** Web scraping, dashboard creation, exploratory analysis, predictive analysis, 
 **Technology:** Power BI, Excel, Python 
