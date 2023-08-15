@@ -15,9 +15,10 @@ This repository serves as a platform to share my projects, showcase my skills, a
 
 - [About](#about)
 - [Porfolio Projects](#portfolio-projects)
+  - [Data Professionals Job Survey](#data-professionals-job-survey)
   - [NBA Statistics](#nba-statistics)
   - [Sales Dashboard](#sales-dashboard)
-  - [Data Professionals Job Survey](#data-professionals-job-survey)
+
  
 
 ## **Portfolio Projects**
