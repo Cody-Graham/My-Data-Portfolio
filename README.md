@@ -17,7 +17,7 @@ This repository serves as a platform to share my projects, showcase my skills, a
 - [Porfolio Projects](#portfolio-projects)
   - [Data Professionals Job Survey](#data-professionals-job-survey)
   - [NBA Statistics](#nba-statistics)
-  - [NBA.com Web Scraper](#nba.com-web-scraper)
+  - [NBA.com Web Scraper](#nbacom-web-scraper)
   - [Sales Dashboard](#sales-dashboard)
 
  
