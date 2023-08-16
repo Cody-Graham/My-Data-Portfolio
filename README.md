@@ -17,6 +17,7 @@ This repository serves as a platform to share my projects, showcase my skills, a
 - [Porfolio Projects](#portfolio-projects)
   - [Data Professionals Job Survey](#data-professionals-job-survey)
   - [NBA Statistics](#nba-statistics)
+  - [NBA.com Web Scraper](#nba.com-web-scraper)
   - [Sales Dashboard](#sales-dashboard)
 
  
@@ -48,6 +49,21 @@ This repository serves as a platform to share my projects, showcase my skills, a
 **Technology:** Power BI, Excel, Python
 
 **Results & Conclusions:** The Contribution Rating increases the spread of the widely-known PER from ~30 points to ~75, providing more accute visibility in differences between players' individual production.
+
+
+### **NBA.com Web Scraper**
+
+**Project:** [NBA.com Web Scraper - Sublime](https://github.com/Cody-Graham/My-Data-Portfolio/blob/main/NBA_Stats_Web_Scraper.sublime-workspace)
+
+**Description:** In the midst of working on the NBA Player Dashboard, this project was born out of an attempt to connect a dataset to my dashboard that would automatically update each day as the NBA season progressed.
+
+**Skills:** Web scraping, data cleaning
+
+**Technology:** Python, Sublime Text
+
+**Results & Conclusions:** The web scraper is functional which is a huge success for my first web scraper. However, NBA.com seems to be very strict on allowing frequent web requests to pull JSON data, and the data available on their website is not available for download. So using the web scraper to pull 25 seasons of data may throw an error.
+
+[Back to Top](#cody-graham---data-analysis-portfolio)
 
 
 ### **Sales Dashboard**
