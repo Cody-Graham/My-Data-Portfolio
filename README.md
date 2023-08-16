@@ -63,8 +63,6 @@ This repository serves as a platform to share my projects, showcase my skills, a
 
 **Results & Conclusions:** The web scraper is functional which is a huge success given it was my first one. However, NBA.com seems to be very strict on allowing frequent web requests to pull JSON data, and the data available on their website is not available for download. So using the web scraper to pull 25 seasons of data may throw an error.
 
-[Back to Top](#cody-graham---data-analysis-portfolio)
-
 
 ### **Sales Dashboard**
 
