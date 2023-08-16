@@ -47,7 +47,7 @@ This repository serves as a platform to share my projects, showcase my skills, a
 
 **Technology:** Power BI, Excel, Python
 
-**Results & Conclusions:** The contribution rating increases the spread of the widely-known PER from ~30 points to ~75, providing more accute visibility in differences between players' individual production.
+**Results & Conclusions:** The Contribution Rating increases the spread of the widely-known PER from ~30 points to ~75, providing more accute visibility in differences between players' individual production.
 
 
 ### **Sales Dashboard**
