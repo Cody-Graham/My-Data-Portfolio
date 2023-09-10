@@ -42,13 +42,13 @@ This repository serves as a platform to share my projects, showcase my skills, a
 
 **Project:** [NBA Player Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWNlZGE2YmQtNWM5MC00MjdhLWIwMzUtNTk2NDNhZGVmNjllIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9)
 
-**Description:** This project shows an NBA player dashboard using 10 years of NBA data straight from the official website. In addition to the typical stats you might find on a project like this, I decided to take a shot (pun intended) at my own version of a Player Efficiency Rating. I don’t like that almost 500 players in the League are differentiated by no more than about 30 points. So, I created a “Contribution Rating” which incorporates several per-minute stats, with extra weight placed on +/- and minutes per game.
+**Description:** This project shows an NBA player dashboard using 24 years of NBA data straight from the official website. In addition to the typical stats you might find on a project like this, I decided to take a shot (pun intended) at my own version of a Player Efficiency Rating. I don’t like that almost 500 players in the League are differentiated by no more than about 30 points. So, I created a “Contribution Rating” which incorporates several per-minute stats, with extra weight placed on +/- and minutes per game.
 
 **Skills:** Web scraping, dashboard creation, exploratory analysis, predictive analysis
 
 **Technology:** Power BI, Excel, Python
 
-**Results & Conclusions:** The Contribution Rating increases the spread of the widely-known PER from ~30 points to ~75, providing more accute visibility in differences between players' individual production.
+**Results & Conclusions:** The Contribution Rating increases the spread of the widely-known PER from ~30 points to ~75, providing more accute visibility in differences between players' individual production. Several "undervalued players" are identified using a ranking that measures approximate cost of each player divided by their respective contribution rating.
 
 
 ### **NBA.com Web Scraper**
