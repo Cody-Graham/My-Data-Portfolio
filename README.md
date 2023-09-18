@@ -25,6 +25,19 @@ This repository serves as a platform to share my projects, showcase my skills, a
 ## **Portfolio Projects**
 
 
+### **Pizza Sales Dashboard - Power BI**
+
+**Project:** [Pizza Sales Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTA2ZGEyNDAtOTIwMy00YjBmLWFhZDQtMWJjM2ZmMjcyYWFmIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&pageName=ReportSection)
+
+**Description:** This project shows a high-level look at 2015 sales data for a mock pizza company. The goal here is to provide quick access to the company's top line revenue with filtering agility in as many relevant ways as possible.
+
+**Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, qualitative analysis
+
+**Technology:** Power BI, Excel
+
+**Results & Conclusions:** Though classic pizzas sell more, the chicken-based specialty pizzas are responsible for the majority of the company's revenue. Also, the best sales day by far occured on Thanksgiving, and the second highest sales day was the day after.
+
+
 ### **Data Professionals Job Survey**
 
 **Project:** [Data Professionals Job Survey - Power BI](https://app.powerbi.com/view?r=eyJrIjoiMGQ3OWFiNjYtOGJmZC00Yzc2LTg0NjAtNTA0NmE3NTE4MWUwIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&embedImagePlaceholder=true)
