@@ -25,7 +25,7 @@ This repository serves as a platform to share my projects, showcase my skills, a
 ## **Portfolio Projects**
 
 
-### **Pizza Sales Dashboard - Power BI**
+### **Pizza Sales Dashboard**
 
 **Project:** [Pizza Sales Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTA2ZGEyNDAtOTIwMy00YjBmLWFhZDQtMWJjM2ZmMjcyYWFmIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&pageName=ReportSection)
 
