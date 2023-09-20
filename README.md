@@ -16,14 +16,27 @@ Ordered by time of completion
 
 - [About](#about)
 - [Porfolio Projects](#portfolio-projects)
+  - [Data Analyst's Guide to the NBA](#data-analyst's-guide-to-the-nba)
   - [Sales Dashboard - ABC Pizza Company](#pizza-sales-dashboard)
   - [Data Professionals Job Survey](#data-professionals-job-survey)
-  - [Data Analyst's Guide to the NBA](#data-analyst's-guide-to-the-nba)
   - [Sales Dashboard - Service Company](#sales-dashboard)
 
  
 
 ## **Portfolio Projects**
+
+
+### **Data Analyst's Guide to the NBA**
+
+**Project:** [NBA Player Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWNlZGE2YmQtNWM5MC00MjdhLWIwMzUtNTk2NDNhZGVmNjllIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&embedImagePlaceholder=true&pageName=ReportSection44e3938fd01066e8e6ce)
+
+**Description:** This project shows an NBA player dashboard using 24 years of NBA data straight from the official website. In addition to the typical stats you might find on a project like this, I decided to take a shot (pun intended) at my own version of a Player Efficiency Rating. I don’t like that almost 500 players in the League are differentiated by no more than about 30 points. So, I created a “Contribution Rating” which incorporates several per-minute stats, with extra weight placed on +/- and minutes per game.
+
+**Skills:** Web scraping, dashboard creation, exploratory analysis, predictive analysis
+
+**Technology:** Power BI, Excel, Python
+
+**Results & Conclusions:** The Contribution Rating increases the spread of the widely-known PER from ~30 points to ~75, providing more accute visibility in differences between players' individual production. Several "undervalued players" are identified using a ranking that measures approximate cost of each player divided by their respective contribution rating.
 
 
 ### **Pizza Sales Dashboard**
@@ -50,19 +63,6 @@ Ordered by time of completion
 **Technology:** Power BI, Excel
 
 **Results & Conclusions:** More insights could be added to this project soon as there is much to be unpacked from the survey results. One insight was that, of the responders, men and women typically made about the same amount of money on average. Also, both age and education (two factors assumed to play major roles in salary growth) did not hold near as much weight as I would have thought without having done such an analysis. One last conclusion is that Python appears to be far and away the most popular programming language used around the world among this sample of data professionals.
-
-
-### **Data Analyst's Guide to the NBA**
-
-**Project:** [NBA Player Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWNlZGE2YmQtNWM5MC00MjdhLWIwMzUtNTk2NDNhZGVmNjllIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&embedImagePlaceholder=true&pageName=ReportSection44e3938fd01066e8e6ce)
-
-**Description:** This project shows an NBA player dashboard using 24 years of NBA data straight from the official website. In addition to the typical stats you might find on a project like this, I decided to take a shot (pun intended) at my own version of a Player Efficiency Rating. I don’t like that almost 500 players in the League are differentiated by no more than about 30 points. So, I created a “Contribution Rating” which incorporates several per-minute stats, with extra weight placed on +/- and minutes per game.
-
-**Skills:** Web scraping, dashboard creation, exploratory analysis, predictive analysis
-
-**Technology:** Power BI, Excel, Python
-
-**Results & Conclusions:** The Contribution Rating increases the spread of the widely-known PER from ~30 points to ~75, providing more accute visibility in differences between players' individual production. Several "undervalued players" are identified using a ranking that measures approximate cost of each player divided by their respective contribution rating.
 
 
 ### **Sales Dashboard**
