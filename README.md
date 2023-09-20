@@ -18,7 +18,7 @@ Ordered by time of completion
 - [Porfolio Projects](#portfolio-projects)
   - [Sales Dashboard - ABC Pizza Company](#pizza-sales-dashboard)
   - [Data Professionals Job Survey](#data-professionals-job-survey)
-  - [NBA Statistics](#data-analyst's-guide-to-the-nba)
+  - [Data Analyst's Guide to the NBA](#data-analyst's-guide-to-the-nba)
   - [Sales Dashboard - Service Company](#sales-dashboard)
 
  
