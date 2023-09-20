@@ -12,14 +12,14 @@ This repository serves as a platform to share my projects, showcase my skills, a
 
 
 ## **Table of Contents**
+Ordered by time of completion
 
 - [About](#about)
 - [Porfolio Projects](#portfolio-projects)
   - [Sales Dashboard - ABC Pizza Company](#pizza-sales-dashboard)
   - [Data Professionals Job Survey](#data-professionals-job-survey)
   - [NBA Statistics](#nba-statistics)
-  - [NBA.com Web Scraper](#nbacom-web-scraper)
-  - [Sales Dashboard](#sales-dashboard)
+  - [Sales Dashboard - Service Company](#sales-dashboard)
 
  
 
