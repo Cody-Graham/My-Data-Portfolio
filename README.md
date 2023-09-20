@@ -18,7 +18,7 @@ Ordered by time of completion
 - [Porfolio Projects](#portfolio-projects)
   - [Sales Dashboard - ABC Pizza Company](#pizza-sales-dashboard)
   - [Data Professionals Job Survey](#data-professionals-job-survey)
-  - [NBA Statistics](#nba-statistics)
+  - [NBA Statistics](#data-analyst's-guide-to-the-nba)
   - [Sales Dashboard - Service Company](#sales-dashboard)
 
  
@@ -52,7 +52,7 @@ Ordered by time of completion
 **Results & Conclusions:** More insights could be added to this project soon as there is much to be unpacked from the survey results. One insight was that, of the responders, men and women typically made about the same amount of money on average. Also, both age and education (two factors assumed to play major roles in salary growth) did not hold near as much weight as I would have thought without having done such an analysis. One last conclusion is that Python appears to be far and away the most popular programming language used around the world among this sample of data professionals.
 
 
-### **NBA Statistics**
+### **Data Analyst's Guide to the NBA**
 
 **Project:** [NBA Player Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWNlZGE2YmQtNWM5MC00MjdhLWIwMzUtNTk2NDNhZGVmNjllIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&embedImagePlaceholder=true&pageName=ReportSection44e3938fd01066e8e6ce)
 
