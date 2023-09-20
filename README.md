@@ -65,19 +65,6 @@ Ordered by time of completion
 **Results & Conclusions:** The Contribution Rating increases the spread of the widely-known PER from ~30 points to ~75, providing more accute visibility in differences between players' individual production. Several "undervalued players" are identified using a ranking that measures approximate cost of each player divided by their respective contribution rating.
 
 
-### **NBA.com Web Scraper**
-
-**Project:** [NBA.com Web Scraper - Sublime](https://github.com/Cody-Graham/My-Data-Portfolio/blob/main/NBA_Stats_Web_Scraper.sublime-workspace)
-
-**Description:** In the midst of working on the NBA Player Dashboard, this project was born out of an attempt to connect a dataset to my dashboard that would automatically update each day as the NBA season progressed.
-
-**Skills:** Web scraping, data cleaning
-
-**Technology:** Python, Sublime Text
-
-**Results & Conclusions:** The web scraper is functional which is a huge success given it was my first one. However, NBA.com seems to be very strict on allowing frequent web requests to pull JSON data, and the data available on their website is not available for download. So using the web scraper to pull 25 seasons of data may throw an error.
-
-
 ### **Sales Dashboard**
 
 **Project:** [Sales Dashboard - Tableau Public](https://public.tableau.com/app/profile/graham.analytics/viz/SalesDashboard_16736662040210/ServiceSales)
