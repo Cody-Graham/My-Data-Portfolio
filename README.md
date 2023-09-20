@@ -15,6 +15,7 @@ This repository serves as a platform to share my projects, showcase my skills, a
 
 - [About](#about)
 - [Porfolio Projects](#portfolio-projects)
+  - [Sales Dashboard - ABC Pizza Company](#pizza-sales-dashboard)
   - [Data Professionals Job Survey](#data-professionals-job-survey)
   - [NBA Statistics](#nba-statistics)
   - [NBA.com Web Scraper](#nbacom-web-scraper)
@@ -27,7 +28,7 @@ This repository serves as a platform to share my projects, showcase my skills, a
 
 ### **Pizza Sales Dashboard**
 
-**Project:** [Pizza Sales Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTA2ZGEyNDAtOTIwMy00YjBmLWFhZDQtMWJjM2ZmMjcyYWFmIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&pageName=ReportSection)
+**Project:** [Sales Dashboard - ABC Pizza Company](https://app.powerbi.com/view?r=eyJrIjoiYTA2ZGEyNDAtOTIwMy00YjBmLWFhZDQtMWJjM2ZmMjcyYWFmIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&pageName=ReportSection)
 
 **Description:** This project shows a high-level look at 2015 sales data for a mock pizza company. The goal here is to provide quick access to the company's top line revenue with filtering agility in as many relevant ways as possible.
 
