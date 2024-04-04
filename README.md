@@ -28,7 +28,7 @@ Ordered by time of completion
 
 ### **Data Analyst's Guide to the NBA**
 
-**Project:** [NBA Player Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWNlZGE2YmQtNWM5MC00MjdhLWIwMzUtNTk2NDNhZGVmNjllIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9&embedImagePlaceholder=true&pageName=ReportSection44e3938fd01066e8e6ce)
+**Project:** [NBA Player Dashboard - Power BI](https://app.powerbi.com/reportEmbed?reportId=210cc56c-e78f-4618-ac4b-b408c8b9eef0&autoAuth=true&ctid=c228e767-07c4-47d0-91e3-878dbb69fa90)
 
 **Description:** This project shows an NBA player dashboard using 24 years of NBA data straight from the official website. In addition to the typical stats you might find on a project like this, I decided to take a shot (pun intended) at my own version of a Player Efficiency Rating. I don’t like that almost 500 players in the League are differentiated by no more than about 30 points. So, I created a “Contribution Rating” which incorporates several per-minute stats, with extra weight placed on +/- and minutes per game.
 
