@@ -30,13 +30,13 @@ Ordered by time of completion
 
 **Project:** [NBA Player Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWNlZGE2YmQtNWM5MC00MjdhLWIwMzUtNTk2NDNhZGVmNjllIiwidCI6ImMyMjhlNzY3LTA3YzQtNDdkMC05MWUzLTg3OGRiYjY5ZmE5MCJ9)
 
-**Description:** This project shows an NBA player dashboard using 24 years of NBA data straight from the official website. In addition to the typical stats you might find on a project like this, I decided to take a shot (pun intended) at my own version of a Player Efficiency Rating. I don’t like that almost 500 players in the League are differentiated by no more than about 30 points. So, I created a “Contribution Rating” which incorporates several per-minute stats, with extra weight placed on +/- and minutes per game.
+**Description:** This project shows an NBA dashboard network using NBA data from 1997 onward from the official website. In addition to the typical stats you might find on a project like this, I attempted to identify players who outperform their contracts each year (shoutout to the movie, Moneyball for the inspiration). I also created a “Contribution Rating” which serves a similar purpose to the Player Efficieny Rating (PER). It spotlights a player's contribution to his team's success incorporates several per-minute stats, with extra weight placed on +/- and minutes per game. 
 
 **Skills:** Web scraping, dashboard creation, exploratory analysis, predictive analysis
 
 **Technology:** Power BI, Excel, Python
 
-**Results & Conclusions:** The Contribution Rating increases the spread of the widely-known PER from ~30 points to ~75, providing more accute visibility in differences between players' individual production. Several "undervalued players" are identified using a ranking that measures approximate cost of each player divided by their respective contribution rating.
+**Results & Conclusions:** The Bargain Players page sheds light on some fascinating young players who are playing phenomenally given the amount of their contract. The Contribution Rating increases the spread of the widely-known PER from ~30 points to ~75, providing more accute visibility in differences between players' individual production. Several "undervalued players" are identified using a ranking that measures approximate cost of each player divided by their respective contribution rating.
 
 
 ### **Pizza Sales Dashboard**
