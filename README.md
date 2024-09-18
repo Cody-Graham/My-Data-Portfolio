@@ -19,7 +19,6 @@ Ordered by time of completion
   - [Data Analyst's Guide to the NBA](#data-analysts-guide-to-the-nba)
   - [Sales Dashboard - ABC Pizza Company](#pizza-sales-dashboard)
   - [Data Professionals Job Survey](#data-professionals-job-survey)
-  - [Sales Dashboard - Service Company](#sales-dashboard)
 
  
 
@@ -34,7 +33,7 @@ Ordered by time of completion
 
 **Skills:** Web scraping, dashboard creation, exploratory analysis, predictive analysis
 
-**Technology:** Power BI, Excel, Python
+**Technology:** Power BI, PostgreSQL, Python, Power Query
 
 **Results & Conclusions:** The Bargain Players page sheds light on some fascinating young players who are playing phenomenally given the amount of their contract. The Contribution Rating increases the spread of the widely-known PER from ~30 points to ~75, providing more accute visibility in differences between players' individual production. Several "undervalued players" are identified using a ranking that measures approximate cost of each player divided by their respective contribution rating.
 
@@ -64,17 +63,5 @@ Ordered by time of completion
 
 **Results & Conclusions:** More insights could be added to this project soon as there is much to be unpacked from the survey results. One insight was that, of the responders, men and women typically made about the same amount of money on average. Also, both age and education (two factors assumed to play major roles in salary growth) did not hold near as much weight as I would have thought without having done such an analysis. One last conclusion is that Python appears to be far and away the most popular programming language used around the world among this sample of data professionals.
 
-
-### **Sales Dashboard**
-
-**Project:** [Sales Dashboard - Tableau Public](https://public.tableau.com/app/profile/graham.analytics/viz/SalesDashboard_16736662040210/ServiceSales)
-
-**Description:** In this project, I transformed over 20 years of sample sales data for a service-based company into an interactive, quick-glance dashboard. The dashboard allows for exploratory analysis, customer retention, and easy performance tracking.
-
-**Skills:** Data collection, data cleaning, dashboard creation, exploratory analysis, client relations
-
-**Technology:** Tableau Public, Excel
-
-**Results & Conclusions:** As seen in the dashboard itself, it was determined that one of the service categories was being sold for well-under market value, and in subsequent years, aggressive pricing adjustments are made. The end result is a 35% increase in revenue for that service category.
 
 [Back to Top](#cody-graham---data-analysis-portfolio)
